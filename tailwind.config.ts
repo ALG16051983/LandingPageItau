@@ -21,7 +21,7 @@ const config: Config = {
         "opacity-gray": "rgba(100, 80, 57, 0.1)",
       },
       fontFamily: {
-        sans: ["var(--font-lato)", "sans-serif"], // Fonte Lato corrigida
+        sans: ["var(--font-lato)", "sans-serif"],
       },
     },
   },

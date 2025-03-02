@@ -3,10 +3,10 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      <h1>Case Study</h1>
-      <p>This is a simple case study example using Next.js.</p>
+      <h1>Landing Page Itau</h1>
+      <p>Criacao de Landing Page Projeto</p>
       <Image
-        src="/next.svg" 
+        src="/assets/logo.svg" 
         alt="Next.js Logo"
         width={200}
         height={200}
